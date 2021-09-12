@@ -1,2 +1,3 @@
 Hola, mi nombre es Jhonny y tengo 22 años.
 Soy de Perú y vivo en San Vicente.
+Me gusta jugar futbol y programar.
